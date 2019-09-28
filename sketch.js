@@ -38,7 +38,7 @@ function setup() {
 
   //audio controls
   sound.play();
-  sound.loop();
+ // sound.loop();
   sound.setVolume(1);
 
   //creates clear canvas on top of main canvas
